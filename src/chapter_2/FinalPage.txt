@@ -1,0 +1,7 @@
+
+So far we learned Git
+
+Flow to commit, push
+
+And from remote to local
+pull/update
